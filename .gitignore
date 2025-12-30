@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Earth Engine credentials
+*.json
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+
+# Outputs
+data/
+outputs/
